@@ -14,4 +14,9 @@
 * [小米-年轻人的第一支翻倍股](diary/xiao-mi-nian-qing-ren-de-di-yi-zhi-fan-bei-gu.md)
 * [电动车会不会改变未来？](diary/dian-dong-che-hui-bu-hui-gai-bian-wei-lai.md)
 * [疫情对你的工作和生活产生了什么影响？](diary/yi-qing-dui-ni-de-gong-zuo-he-sheng-huo-chan-sheng-le-shen-me-ying-xiang.md)
+* [从创业板扩大涨跌幅限制聊起](diary/cong-chuang-ye-ban-kuo-da-zhang-die-fu-xian-zhi-liao-qi.md)
+* [滑铁卢：四天、三支大军和三场战役的历史](diary/hua-tie-lu-si-tian-san-zhi-da-jun-he-san-chang-zhan-yi-de-li-shi.md)
+* [做了个知识星球](diary/zuo-le-ge-zhi-shi-xing-qiu.md)
+* [高瓴资本-抄作业的技术准备](diary/gao-ling-zi-ben-chao-zuo-ye-de-ji-shu-zhun-bei.md)
+* [中间交易创造的价值](diary/zhong-jian-jiao-yi-chuang-zao-de-jia-zhi.md)
 
