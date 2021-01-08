@@ -11,4 +11,5 @@
 * [从北向资金走向-衍生的交易策略](diary/cong-bei-xiang-zi-jin-zou-xiang-yan-sheng-de-jiao-yi-ce-lve.md)
 * [理财二三事--定投选择哪天好？](diary/li-cai-er-san-shi-ding-tou-xuan-ze-na-tian-hao.md)
 * [周四交易日大概率是跌？](diary/zhou-si-jiao-yi-ri-da-gai-lv-shi-die.md)
+* [小米-年轻人的第一支翻倍股](diary/xiao-mi-nian-qing-ren-de-di-yi-zhi-fan-bei-gu.md)
 
