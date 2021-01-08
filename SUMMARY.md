@@ -19,4 +19,13 @@
 * [做了个知识星球](diary/zuo-le-ge-zhi-shi-xing-qiu.md)
 * [高瓴资本-抄作业的技术准备](diary/gao-ling-zi-ben-chao-zuo-ye-de-ji-shu-zhun-bei.md)
 * [中间交易创造的价值](diary/zhong-jian-jiao-yi-chuang-zao-de-jia-zhi.md)
+* [美股初体验](diary/mei-gu-chu-ti-yan.md)
+* [负面思维的本能让我们对坏事更加关注](diary/fu-mian-si-wei-de-ben-neng-rang-wo-men-dui-huai-shi-geng-jia-guan-zhu.md)
+* [无脑安睡组合](diary/wu-nao-an-shui-zu-he.md)
+* [跑输大趋势的反思](diary/pao-shu-da-qu-shi-de-fan-si.md)
+* [2019-年度总结](diary/2019-nian-du-zong-jie.md)
+* [Untitled](diary/untitled-3.md)
+* [Untitled](diary/untitled-2.md)
+* [Untitled](diary/untitled-1.md)
+* [Untitled](diary/untitled.md)
 
