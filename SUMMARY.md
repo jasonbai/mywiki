@@ -30,7 +30,14 @@
 * [2018年度总结](diary/untitled.md)
 * [丧和热血调制的血腥玛丽](diary/untitled-4.md)
 * [《鞋狗》](diary/untitled-5.md)
-* [好久不见](diary/untitled-6.md)
+* [2016-好久不见](diary/untitled-6.md)
+* [2014-拜关二爷](diary/2014-bai-guan-er-ye.md)
+* [2014-夏天](diary/2014-xia-tian.md)
+* [2013-丽江·夜](diary/2013-li-jiang-ye.md)
+* [2013-更正一则](diary/2013-geng-zheng-yi-ze.md)
+* [云南交通导览（1）](diary/yun-nan-jiao-tong-dao-lan-1.md)
+* [梦之城--昆明](diary/meng-zhi-cheng-kun-ming.md)
+* [蒙自--原来是个大城市](diary/meng-zi-yuan-lai-shi-ge-da-cheng-shi.md)
 
 ## 我的书单
 
