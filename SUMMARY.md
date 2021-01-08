@@ -45,6 +45,10 @@
 * [安宁](diary/an-ning.md)
 * [边防检查](diary/bian-fang-jian-cha.md)
 * [天涯地角---姐告](diary/tian-ya-di-jiao-jie-gao.md)
+* [边境之城-瑞丽](diary/bian-jing-zhi-cheng-rui-li.md)
+* [夜奔贵阳](diary/ye-ben-gui-yang.md)
+* [云南文山--人参补气第一，三七补血第一](diary/yun-nan-wen-shan-ren-can-bu-qi-di-yi-san-qi-bu-xie-di-yi.md)
+* [2013-重庆的妹子和火锅](diary/2013-zhong-qing-de-mei-zi-he-huo-guo.md)
 
 ## 我的书单
 
