@@ -28,9 +28,9 @@
 * [理财二三事 - 4%法则](diary/untitled-2.md)
 * [上市公司职工薪酬排行](diary/untitled-1.md)
 * [2018年度总结](diary/untitled.md)
-* [Untitled](diary/untitled-4.md)
-* [Untitled](diary/untitled-5.md)
-* [Untitled](diary/untitled-6.md)
+* [丧和热血调制的血腥玛丽](diary/untitled-4.md)
+* [《鞋狗》](diary/untitled-5.md)
+* [好久不见](diary/untitled-6.md)
 
 ## 我的书单
 
