@@ -22,7 +22,7 @@
 * [美股初体验](diary/mei-gu-chu-ti-yan.md)
 * [负面思维的本能让我们对坏事更加关注](diary/fu-mian-si-wei-de-ben-neng-rang-wo-men-dui-huai-shi-geng-jia-guan-zhu.md)
 * [无脑安睡组合](diary/wu-nao-an-shui-zu-he.md)
-* [跑输大趋势的反思](diary/pao-shu-da-qu-shi-de-fan-si.md)
+* [2020-跑输大趋势的反思](diary/pao-shu-da-qu-shi-de-fan-si.md)
 * [2019-年度总结](diary/2019-nian-du-zong-jie.md)
 * [理财二三事 - 定投](diary/untitled-3.md)
 * [理财二三事 - 4%法则](diary/untitled-2.md)
