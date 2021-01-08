@@ -24,7 +24,7 @@
 * [无脑安睡组合](diary/wu-nao-an-shui-zu-he.md)
 * [跑输大趋势的反思](diary/pao-shu-da-qu-shi-de-fan-si.md)
 * [2019-年度总结](diary/2019-nian-du-zong-jie.md)
-* [Untitled](diary/untitled-3.md)
+* [理财二三事 - 定投](diary/untitled-3.md)
 * [Untitled](diary/untitled-2.md)
 * [Untitled](diary/untitled-1.md)
 * [Untitled](diary/untitled.md)
