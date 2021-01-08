@@ -10,4 +10,5 @@
 * [无脑安睡组合2020小结](diary/wu-nao-an-shui-zu-he-2020-xiao-jie.md)
 * [从北向资金走向-衍生的交易策略](diary/cong-bei-xiang-zi-jin-zou-xiang-yan-sheng-de-jiao-yi-ce-lve.md)
 * [理财二三事--定投选择哪天好？](diary/li-cai-er-san-shi-ding-tou-xuan-ze-na-tian-hao.md)
+* [周四交易日大概率是跌？](diary/zhou-si-jiao-yi-ri-da-gai-lv-shi-die.md)
 
