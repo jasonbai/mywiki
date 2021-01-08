@@ -13,4 +13,5 @@
 * [周四交易日大概率是跌？](diary/zhou-si-jiao-yi-ri-da-gai-lv-shi-die.md)
 * [小米-年轻人的第一支翻倍股](diary/xiao-mi-nian-qing-ren-de-di-yi-zhi-fan-bei-gu.md)
 * [电动车会不会改变未来？](diary/dian-dong-che-hui-bu-hui-gai-bian-wei-lai.md)
+* [疫情对你的工作和生活产生了什么影响？](diary/yi-qing-dui-ni-de-gong-zuo-he-sheng-huo-chan-sheng-le-shen-me-ying-xiang.md)
 
