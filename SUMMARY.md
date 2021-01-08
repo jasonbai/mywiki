@@ -38,6 +38,7 @@
 * [云南交通导览（1）](diary/yun-nan-jiao-tong-dao-lan-1.md)
 * [梦之城--昆明](diary/meng-zhi-cheng-kun-ming.md)
 * [蒙自--原来是个大城市](diary/meng-zi-yuan-lai-shi-ge-da-cheng-shi.md)
+* [傣族-撒撇](diary/dai-zu-sa-pie.md)
 
 ## 我的书单
 
