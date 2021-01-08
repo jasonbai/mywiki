@@ -25,7 +25,7 @@
 * [跑输大趋势的反思](diary/pao-shu-da-qu-shi-de-fan-si.md)
 * [2019-年度总结](diary/2019-nian-du-zong-jie.md)
 * [理财二三事 - 定投](diary/untitled-3.md)
-* [Untitled](diary/untitled-2.md)
-* [Untitled](diary/untitled-1.md)
-* [Untitled](diary/untitled.md)
+* [理财二三事 - 4%法则](diary/untitled-2.md)
+* [上市公司职工薪酬排行](diary/untitled-1.md)
+* [2018年度总结](diary/untitled.md)
 
