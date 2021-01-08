@@ -39,6 +39,12 @@
 * [梦之城--昆明](diary/meng-zhi-cheng-kun-ming.md)
 * [蒙自--原来是个大城市](diary/meng-zi-yuan-lai-shi-ge-da-cheng-shi.md)
 * [傣族-撒撇](diary/dai-zu-sa-pie.md)
+* [大理--稀豆粉](diary/da-li-xi-dou-fen.md)
+* [西双版纳-酸角](diary/xi-shuang-ban-na-suan-jiao.md)
+* [大理---飘香酒馆](diary/da-li-piao-xiang-jiu-guan.md)
+* [安宁](diary/an-ning.md)
+* [边防检查](diary/bian-fang-jian-cha.md)
+* [天涯地角---姐告](diary/tian-ya-di-jiao-jie-gao.md)
 
 ## 我的书单
 
